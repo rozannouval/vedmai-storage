@@ -22,8 +22,8 @@ const Sidebar = ({ fullName, avatar, email}: Props) => {
         <Image
           src={"assets/icons/logo-full-brand.svg"}
           alt="logo"
-          width={160}
-          height={50}
+          width={220}
+          height={110}
           className="hidden h-auto lg:block"
         />
 
